@@ -1,4 +1,4 @@
-# Surprisal and RTs
+# Surprisal and RTs Final project in Language Computation and Cognition course
 
 In our project we will be working on surprisal and
 reading time, examining the relation between reading times
